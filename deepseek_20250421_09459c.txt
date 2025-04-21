@@ -1,0 +1,12 @@
+promopulse/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── hero-img.jpg
+│   ├── feature-icon-1.svg
+│   └── ...
+├── README.md
+└── LICENSE
